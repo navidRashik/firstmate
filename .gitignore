@@ -7,7 +7,6 @@ data/
 .DS_Store
 __pycache__/
 *.pyc
-.env
 config/crew-harness
 config/crew-dispatch.json
 config/secondmate-harness
@@ -18,3 +17,5 @@ config/x-mode.env
 config/cmux-socket-password
 config/wedge-alarm
 config/herdr-presentation-spaces
+node_modules
+config.bat
